@@ -1,0 +1,6 @@
+-Download historical stock prices from Yahoo finance
+-Explore the data
+-Setup the dataset to predict future prices using historical prices
+-Test a machine learning model
+-Setup a backtesting engine
+-Improve the accuracy of the model
